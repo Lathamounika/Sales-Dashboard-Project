@@ -32,5 +32,15 @@ Run the dashboard:
 ```bash
 python sales_dashboard.py
 
+
+## Project Structure
+sales_data.csv           # Sample dataset
+sales_dashboard.py       # Main dashboard script
+
+
 ## Author
- Latha mounika
+- Latha Mounika
+
+
+
+
